@@ -1,0 +1,29 @@
+#banner{
+    background-color: gray;
+    color:white;
+}
+
+#footer{
+    background-color: gray;
+    color:white;
+}
+.Photo1{
+    background-color: darkmagenta ;
+}
+.Photo2{
+    background-color: cornflowerblue;
+}
+
+.MainContent{
+    padding-top: 2.5cm;
+    height: 5cm;
+}
+
+#LeftMenu{
+    background-color: orange;
+}
+
+#TopMenu{
+    background-color: brown;
+
+}
