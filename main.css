@@ -1,29 +1,34 @@
 #banner{
-    background-color: gray;
+    background-color: #5B493C;
     color:white;
 }
 
 #footer{
-    background-color: gray;
+    background-color: #5B493C;
     color:white;
 }
 .Photo1{
-    background-color: darkmagenta ;
+    background-color: #C5697A ;
+    font-weight: bold;
 }
 .Photo2{
-    background-color: cornflowerblue;
+    background-color: #00A2B6;
+    font-weight: bold;
 }
 
 .MainContent{
     padding-top: 2.5cm;
     height: 5cm;
+    font-weight: bold;
 }
 
 #LeftMenu{
-    background-color: orange;
+    background-color: #F99A3E;
+    font-weight: bold;
 }
 
 #TopMenu{
-    background-color: brown;
+    background-color: #C39182;
+    font-weight: bold;
 
 }
